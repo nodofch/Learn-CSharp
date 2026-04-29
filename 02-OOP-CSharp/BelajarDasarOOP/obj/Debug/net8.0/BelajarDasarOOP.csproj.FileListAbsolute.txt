@@ -1,0 +1,15 @@
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.AssemblyInfoInputs.cache
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.AssemblyInfo.cs
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.csproj.CoreCompileInputs.cache
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.sourcelink.json
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\bin\Debug\net8.0\BelajarDasarOOP.exe
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\bin\Debug\net8.0\BelajarDasarOOP.deps.json
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\bin\Debug\net8.0\BelajarDasarOOP.runtimeconfig.json
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\bin\Debug\net8.0\BelajarDasarOOP.dll
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\bin\Debug\net8.0\BelajarDasarOOP.pdb
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.dll
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\refint\BelajarDasarOOP.dll
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.pdb
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\BelajarDasarOOP.genruntimeconfig.cache
+C:\Users\Nodofch\Belajar\Belajar-C#\02-OOP-CSharp\BelajarDasarOOP\obj\Debug\net8.0\ref\BelajarDasarOOP.dll
