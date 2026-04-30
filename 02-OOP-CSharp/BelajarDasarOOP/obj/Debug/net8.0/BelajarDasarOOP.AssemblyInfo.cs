@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelajarDasarOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97450970669a8704da61adc83688ee84112776df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86264e11b836ebcb396a3e27eb5ff5a7a2dc1645")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelajarDasarOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelajarDasarOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
